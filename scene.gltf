@@ -1608,19 +1608,20 @@
   ],
   "images": [
     {
-      "uri": "textures/border_baseColor.png"
+
+      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/master/textures/border_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/chair_baseColor.png"
+      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/master/textures/chair_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/floor_baseColor.png"
+      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/master/textures/floor_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/image_baseColor.png"
+      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/master/textures/image_baseColor.png?raw=true"
     },
     {
-      "uri": "textures/table_baseColor.png"
+      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/master/textures/table_baseColor.png?raw=true"
     }
   ],
   "materials": [
