@@ -1609,19 +1609,19 @@
   "images": [
     {
 
-      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/master/textures/border_baseColor.png?raw=true"
+      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/d4967ffe4e8e2c85e51530a3a2ce88a6378f4e3b/textures/border_baseColor.png"
     },
     {
-      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/master/textures/chair_baseColor.png?raw=true"
+      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/d4967ffe4e8e2c85e51530a3a2ce88a6378f4e3b/textures/chair_baseColor.png"
     },
     {
-      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/master/textures/floor_baseColor.png?raw=true"
+      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/d4967ffe4e8e2c85e51530a3a2ce88a6378f4e3b/textures/floor_baseColor.png"
     },
     {
-      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/master/textures/image_baseColor.png?raw=true"
+      "uri": "hhttps://github.com/chetanladdha/AccountVerifier/blob/d4967ffe4e8e2c85e51530a3a2ce88a6378f4e3b//textures/image_baseColor.png"
     },
     {
-      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/master/textures/table_baseColor.png?raw=true"
+      "uri": "https://github.com/chetanladdha/AccountVerifier/blob/d4967ffe4e8e2c85e51530a3a2ce88a6378f4e3b/textures/table_baseColor.png"
     }
   ],
   "materials": [
